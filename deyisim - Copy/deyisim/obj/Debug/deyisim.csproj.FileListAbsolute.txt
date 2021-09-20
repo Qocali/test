@@ -1,0 +1,7 @@
+D:\menim islerim\deyisim\deyisim\bin\Debug\deyisim.exe.config
+D:\menim islerim\deyisim\deyisim\bin\Debug\deyisim.exe
+D:\menim islerim\deyisim\deyisim\bin\Debug\deyisim.pdb
+D:\menim islerim\deyisim\deyisim\obj\Debug\deyisim.csproj.AssemblyReference.cache
+D:\menim islerim\deyisim\deyisim\obj\Debug\deyisim.csproj.CoreCompileInputs.cache
+D:\menim islerim\deyisim\deyisim\obj\Debug\deyisim.exe
+D:\menim islerim\deyisim\deyisim\obj\Debug\deyisim.pdb

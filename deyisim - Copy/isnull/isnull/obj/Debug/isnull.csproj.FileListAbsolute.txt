@@ -1,0 +1,7 @@
+D:\menim islerim\isnull\isnull\bin\Debug\isnull.exe.config
+D:\menim islerim\isnull\isnull\bin\Debug\isnull.exe
+D:\menim islerim\isnull\isnull\bin\Debug\isnull.pdb
+D:\menim islerim\isnull\isnull\obj\Debug\isnull.csproj.AssemblyReference.cache
+D:\menim islerim\isnull\isnull\obj\Debug\isnull.csproj.CoreCompileInputs.cache
+D:\menim islerim\isnull\isnull\obj\Debug\isnull.exe
+D:\menim islerim\isnull\isnull\obj\Debug\isnull.pdb
